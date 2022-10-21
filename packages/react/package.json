@@ -19,6 +19,7 @@
     "@woovi-ui/eslint-config": "*",
     "@woovi-ui/tokens": "*",
     "@woovi-ui/ts-config": "*",
+    "@woovi-ui/variants": "*",
     "react": "^18.2.0",
     "tsup": "^6.3.0",
     "typescript": "^4.8.4"
