@@ -1,5 +1,5 @@
 {
-  "name": "@woovi-ui/tokens",
+  "name": "@ds-ui/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@woovi-ui/ts-config": "*",
-    "@woovi-ui/eslint-config": "*",
+    "@ds-ui/ts-config": "*",
+    "@ds-ui/eslint-config": "*",
     "tsup": "^6.3.0",
     "typescript": "^4.8.4"
   }
