@@ -6,8 +6,8 @@ interface TokensGridProps {
 }
 
 export function TokensGrid({ tokens, hasRemValue = false }: TokensGridProps) {
-  const convertToPixel = (rem: string) => {
-    const remValue = Number(rem)
+  const convertToPixel = (value: string) => {
+    const remValue = Number(value.replace('rem', ''))
     const pixelValue = remValue * 16
     return `${pixelValue}px`
   }
