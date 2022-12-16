@@ -29,6 +29,7 @@
     "@ds-ui/tokens": "*",
     "@ds-ui/react": "*",
     "@ds-ui/eslint-config": "*",
+    "@ds-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.12",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
