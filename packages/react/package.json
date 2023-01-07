@@ -14,17 +14,17 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@types/react": "^18.0.21",
-    "@types/react-dom": "^18.0.6",
     "@ds-ui/eslint-config": "*",
     "@ds-ui/tokens": "*",
     "@ds-ui/ts-config": "*",
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
     "react": "^18.2.0",
     "tsup": "^6.3.0",
     "typescript": "^4.8.4"
   },
   "dependencies": {
-    "@radix-ui/react-avatar": "^1.0.0",
+    "@radix-ui/react-avatar": "^1.0.1",
     "@radix-ui/react-checkbox": "^1.0.0",
     "@stitches/react": "^1.2.8",
     "phosphor-react": "^1.4.1"
