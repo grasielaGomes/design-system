@@ -28,8 +28,8 @@ export const palette = {
   purple400: '#9C28AF',
   purple500: '#8E26AA',
   purple600: '#7C20A1',
-  purple700: '#7C20A1',
-  purple800: '#6A1C98',
+  purple700: '#6A1C98',
+  purple800: '#5A189A',
   purple900: '#4B158C',
 
   violet50: '#F5F3FF',
