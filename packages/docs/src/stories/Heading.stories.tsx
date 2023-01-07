@@ -11,7 +11,7 @@ export default {
 
 export const Primary: StoryObj<HeadingProps> = {}
 
-export const CustomTag: StoryObj<HeadingProps> = {
+export const CustomHTMLTag: StoryObj<HeadingProps> = {
   args: {
     children: 'H1 title',
     as: 'h1',
