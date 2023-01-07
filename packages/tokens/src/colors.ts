@@ -1,27 +1,4 @@
-export const colors = {
-  white: '#FFF',
-  black: '#000',
-  info: '#029BE5',
-  success: '#0CD7A0',
-  warning: '#FAAE42',
-  error: '#E62E4D',
-
-  gray50: '#F9FAFB',
-  gray100: '#F3F4F6',
-  gray200: '#E5E7EB',
-  gray300: '#D1D5DB',
-  gray400: '#9CA3AF',
-  gray500: '#6B7280',
-  gray600: '#4B5563',
-  gray700: '#374151',
-  gray800: '#1F2937',
-  gray900: '#111827',
-
-  primary300: '#C4B5FD',
-  primary500: '#8B5CF6',
-  primary700: '#6D28D9',
-  primary900: '#4C1D95',
-
+export const palette = {
   red50: '#FEF2F2',
   red100: '#FEE2E2',
   red200: '#FECACA',
@@ -252,4 +229,29 @@ export const colors = {
   blueGray700: '#374151',
   blueGray800: '#1F2937',
   blueGray900: '#111827',
+}
+
+export const colors = {
+  white: '#FFF',
+  black: '#000',
+  info: '#029BE5',
+  success: '#0CD7A0',
+  warning: '#FAAE42',
+  error: '#E62E4D',
+
+  gray50: palette.blueGray50,
+  gray100: palette.blueGray100,
+  gray200: palette.blueGray200,
+  gray300: palette.blueGray300,
+  gray400: palette.blueGray400,
+  gray500: palette.blueGray500,
+  gray600: palette.blueGray600,
+  gray700: palette.blueGray700,
+  gray800: palette.blueGray800,
+  gray900: palette.blueGray900,
+
+  primary300: palette.violet300,
+  primary500: palette.violet500,
+  primary700: palette.violet700,
+  primary900: palette.violet900,
 }
